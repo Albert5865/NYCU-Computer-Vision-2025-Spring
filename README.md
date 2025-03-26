@@ -17,23 +17,24 @@ The project uses the **PyTorch** framework and **TensorBoard** for visualization
   To run the code in this repository, follow these steps:  
 
 ### 1. Clone the repository:
-  git clone https://github.com/your_username/NYCU-Computer-Vision-2025-Spring-HW1.git  
+    git clone https://github.com/your_username/NYCU-Computer-Vision-2025-Spring-HW1.git  
 
 ### 2. Create a conda environment:  
+    conda create -n <env_name> python=3.9
 
 ### 3. Download the dataset  
-  https://drive.google.com/file/d/1fx4Z6xl5b6r4UFkBrn5l0oPEIagZxQ5u/view  
+    https://drive.google.com/file/d/1fx4Z6xl5b6r4UFkBrn5l0oPEIagZxQ5u/view  
 
 ### 4. To run the training process, execute the following command:  
-  python train.py
+    python train.py
 
 ### 5.To generate predictions, run the following command:  
-  python predict.py  
+    python predict.py  
 
 ## Performance snapshot  
-  Best Validation Accuracy: 70.28%  
-  Best Validation Loss: 85.67%  
-  Final Test Accuracy (Public): 91%
+    Best Validation Accuracy: 70.28%  
+    Best Validation Loss: 85.67%  
+    Final Test Accuracy (Public): 91%
 
 
 
