@@ -2,4 +2,8 @@
 StudentID : 109612019
 Name : Albert Lin 林伯偉
 
-Introduction
+# Introduction
+
+# How to install
+
+# Performance snapshot
