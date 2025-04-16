@@ -17,7 +17,7 @@ The project uses the **PyTorch** framework and **TensorBoard** for visualization
   To run the code in this repository, follow these steps:  
 
 #### 1. Clone the repository:
-    git clone https://github.com/your_username/NYCU-Computer-Vision-2025-Spring-HW1.git  
+    git clone https://github.com/Albert5865/NYCU-Computer-Vision-2025-Spring-HW1.git  
 
 #### 2. Create a conda environment:  
     conda create -n <env_name> python=3.9
