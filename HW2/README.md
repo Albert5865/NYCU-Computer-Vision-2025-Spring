@@ -11,7 +11,7 @@ The model's performance is evaluated in terms of both training loss and validati
   To run the code in this repository, follow these steps:  
 
 #### 1. Clone the repository:
-    https://github.com/Albert5865/NYCU-Computer-Vision-2025-Spring.git
+    https://github.com/Albert5865/NYCU-Computer-Vision-2025-Spring/tree/main/HW2
 
 #### 2. Create a conda environment:  
     conda create -n <env_name> python=3.9
