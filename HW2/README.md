@@ -3,7 +3,7 @@
 **Name**: Albert Lin 林伯偉
 
 ## Introduction
-This assignment implements Faster R-CNN (Region-based Convolutional Neural Networks) with a ResNet-50 backbone to detect and classify digits in images. The model is trained using a provided dataset of handwritten digits, and its performance is evaluated using mean Average Precision (mAP). The training process includes the use of learning rate schedulers, specifically CosineAnnealingLR, to improve convergence.
+This repository contains the code for the second homework assignment of the NYCU Computer Vision 2025 Spring course. This assignment implements Faster R-CNN (Region-based Convolutional Neural Networks) with a ResNet-50 backbone to detect and classify digits in images. The model is trained using a provided dataset of handwritten digits, and its performance is evaluated using mean Average Precision (mAP). The training process includes the use of learning rate schedulers, specifically CosineAnnealingLR, to improve convergence.
 
 The model's performance is evaluated in terms of both training loss and validation mAP. Additionally, random sampling is employed to manage memory usage by training on only 10% of the dataset per epoch.The project uses the **PyTorch** framework and **TensorBoard** for visualization of training and validation metrics.
 
