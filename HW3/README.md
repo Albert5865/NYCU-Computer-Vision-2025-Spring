@@ -7,6 +7,7 @@ This repository contains the code for the third homework assignment of the NYCU 
 
 The model's performance is evaluated based on both training loss and private scoring on Codabench, Additionally, to manage memory usage, each epoch during training is split into 10 segments, with only 10% of the dataset loaded at a single segment.
 
+
 ## How to install
   To run the code in this repository, follow these steps:  
 
@@ -23,6 +24,7 @@ The model's performance is evaluated based on both training loss and private sco
 
 #### 5.To generate the .json predictions file and the segmentation results, run the following command:  
     python predict.py  
+
 
 ## Performance snapshot  
 ![loss_plot-resnetrs200-dataaug-round121](https://github.com/user-attachments/assets/059bdd5b-fee3-46f8-8139-2041c9466bd3)
