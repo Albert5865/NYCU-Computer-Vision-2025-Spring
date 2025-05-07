@@ -3,7 +3,7 @@
 **Name**: Albert Lin 林伯偉
 
 ## Introduction
-This repository contains the code for the second homework assignment of the NYCU Computer Vision 2025 Spring course. This assignment implements an instance segmentation model to detect and classify four types of cells in medical images. The model utilizes a ResNetRS200 backbone "timm/resnetrs200.tf_in1k", trained on a dataset of cell images, with the goal of achieving high performance in segmentation and classification tasks. The training process incorporates data augmentation techniques to improve the model's generalization capability.
+This repository contains the code for the third homework assignment of the NYCU Computer Vision 2025 Spring course. This assignment implements an instance segmentation model to detect and classify four types of cells in medical images. The model utilizes a ResNetRS200 backbone "timm/resnetrs200.tf_in1k", trained on a dataset of cell images, with the goal of achieving high performance in segmentation and classification tasks. The training process incorporates data augmentation techniques to improve the model's generalization capability.
 
 The model's performance is evaluated based on both training loss and private scoring on Codabench, Additionally, to manage memory usage, each epoch during training is split into 10 segments, with only 10% of the dataset loaded at a single segment.
 
