@@ -7,10 +7,12 @@ This repository contains the code for the fourth homework assignment of the NYCU
 
 The model's performance is evaluated using Peak Signal-to-Noise Ratio (PSNR) on both public and private leaderboards via Codabench. To manage memory usage, the batch size is set to 2, and the training process leverages PyTorch Lightning with CUDA acceleration.
 
+
 ## How to install
   To run the code in this repository, follow these steps:  
 
 #### 1. Clone this repository:
+
 
 #### 2. Create a conda environment:  
     conda create -n <env_name> python=3.9
@@ -19,11 +21,13 @@ The model's performance is evaluated using Peak Signal-to-Noise Ratio (PSNR) on 
     https://drive.google.com/drive/folders/1Q4qLPMCKdjn-iGgXV_8wujDmvDpSI1ul
 
 #### 4. Rename the dataset folder as "data" 
+
     
 #### 5. To run the training process, execute the following command:  
     python main.py
 
 #### 6. The running main.py will automatically start testing and generate the "pred.npz" file after training is finished.
+
 
 
 ## Performance snapshot  
@@ -42,9 +46,9 @@ The model's performance is evaluated using Peak Signal-to-Noise Ratio (PSNR) on 
 
 ## Citation
 
- <a> @inproceedings{potlapalli2023promptir,
-    title={PromptIR: Prompting for All-in-One Image Restoration},
-    author={Potlapalli, Vaishnav and Zamir, Syed Waqas and Khan, Salman and Khan, Fahad},
-    booktitle={Thirty-seventh Conference on Neural Information Processing Systems},
-    year={2023}
-  }<a>
+### @inproceedings{potlapalli2023promptir,
+      title={PromptIR: Prompting for All-in-One Image Restoration},
+      author={Potlapalli, Vaishnav and Zamir, Syed Waqas and Khan, Salman and Khan, Fahad},
+      booktitle={Thirty-seventh Conference on Neural Information Processing Systems},
+      year={2023}
+    }
