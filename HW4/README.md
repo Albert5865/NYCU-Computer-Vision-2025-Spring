@@ -21,8 +21,15 @@ The model's performance is evaluated using Peak Signal-to-Noise Ratio (PSNR) on 
     https://drive.google.com/drive/folders/1Q4qLPMCKdjn-iGgXV_8wujDmvDpSI1ul
 
 #### 4. Rename the dataset folder as "data" 
-
-    
+### 
+    ---data ----train
+      |      |
+      |       ----test
+      --main.py
+      |
+      --test.py
+      |
+      --train.py
 #### 5. To run the training process, execute the following command:  
     python main.py
 
