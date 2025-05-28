@@ -46,7 +46,8 @@ The model's performance is evaluated using Peak Signal-to-Noise Ratio (PSNR) on 
 
 ## Citation
 
-### @inproceedings{potlapalli2023promptir,
+###
+    @inproceedings{potlapalli2023promptir,
       title={PromptIR: Prompting for All-in-One Image Restoration},
       author={Potlapalli, Vaishnav and Zamir, Syed Waqas and Khan, Salman and Khan, Fahad},
       booktitle={Thirty-seventh Conference on Neural Information Processing Systems},
