@@ -34,8 +34,11 @@ The model's performance is evaluated using Peak Signal-to-Noise Ratio (PSNR) on 
 ## Denoise results
 
 ![4](https://github.com/user-attachments/assets/c5265a49-2a50-4a71-ae82-2fbc27f554fe)![4](https://github.com/user-attachments/assets/14a466e8-82b6-4054-85e0-c39916b5984a)
+
 ![59](https://github.com/user-attachments/assets/9f5ec103-a748-405f-80c6-c918446802c3)![59](https://github.com/user-attachments/assets/d2e7b466-cdca-4b10-b750-827ee7dd4e73)
+
 ![91](https://github.com/user-attachments/assets/5dfc95e2-a75a-46b7-84fb-eb192b8b7a09)![91](https://github.com/user-attachments/assets/50300db3-4ce9-4ed7-b6e4-6a610c91acc4)
+
 ![93](https://github.com/user-attachments/assets/5c0efbe5-3f8b-430d-af7d-a993762c9c31)![93](https://github.com/user-attachments/assets/1f3d55b3-264c-4c0a-b53d-e260891aea47)
 
 ## Citation
