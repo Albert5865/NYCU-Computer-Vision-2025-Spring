@@ -19,12 +19,11 @@ The model's performance is evaluated using Peak Signal-to-Noise Ratio (PSNR) on 
     https://drive.google.com/drive/folders/1Q4qLPMCKdjn-iGgXV_8wujDmvDpSI1ul
 
 #### 4. Rename the dataset folder as "data" 
-
     
-#### 4. To run the training process, execute the following command:  
+#### 5. To run the training process, execute the following command:  
     python main.py
 
-#### 5. The running main.py will automatically start testing and generate the "pred.npz" file after training is finished.
+#### 6. The running main.py will automatically start testing and generate the "pred.npz" file after training is finished.
 
 
 ## Performance snapshot  
@@ -43,9 +42,9 @@ The model's performance is evaluated using Peak Signal-to-Noise Ratio (PSNR) on 
 
 ## Citation
 
-  @inproceedings{potlapalli2023promptir,
+ <a> @inproceedings{potlapalli2023promptir,
     title={PromptIR: Prompting for All-in-One Image Restoration},
     author={Potlapalli, Vaishnav and Zamir, Syed Waqas and Khan, Salman and Khan, Fahad},
     booktitle={Thirty-seventh Conference on Neural Information Processing Systems},
     year={2023}
-  }
+  }<a>
