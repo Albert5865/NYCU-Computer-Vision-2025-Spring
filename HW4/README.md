@@ -20,7 +20,7 @@ The model's performance is evaluated using Peak Signal-to-Noise Ratio (PSNR) on 
 #### 3. Download the dataset  
     https://drive.google.com/drive/folders/1Q4qLPMCKdjn-iGgXV_8wujDmvDpSI1ul
 
-#### 4. Rename the dataset folder as "data" 
+#### 4. Rename the dataset folder as "data" and follow the folder structure as below:
 ### 
     ---data ----train
       |      |
